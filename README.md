@@ -1,2 +1,2 @@
 ﻿# atividadegit
-# print("hello")
+print("hello")
