@@ -1,7 +1,7 @@
 ﻿# atividadegit
 print("hello")
 
-//cálculo simples
+//cálculo com operações simples
 var a = 12
 var b = 4
 print("a soma do", a, "com o", b, "=", a + b)
